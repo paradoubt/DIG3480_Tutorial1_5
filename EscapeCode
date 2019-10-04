@@ -1,0 +1,4 @@
+if (Input.GetKey("escape"))
+{
+Application.Quit();
+}
